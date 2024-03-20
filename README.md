@@ -12,6 +12,9 @@ While the project offers practical application and skill enhancement opportuniti
 Nonetheless, the analysis and recommendations have the potential to add value to RKY Mega Stores by informing decision-making and driving revenue growth.
 
 
+
+
+
 ### I will be explaining the insights derived in the Dashboard (Page on Page) with recommendations to the company.
 
 
