@@ -19,6 +19,7 @@ Nonetheless, the analysis and recommendations have the potential to add value to
 
 ## Product Page Insights:
 Identified key product performance metrics including total discount, sales, shipping cost, and profit.
+
 Analyzed profitability by packaging size, highlighting the most profitable and least profitable options.
 Determined the most profitable product categories.
 
