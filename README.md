@@ -15,6 +15,8 @@ Nonetheless, the analysis and recommendations have the potential to add value to
 ### I will be explaining the insights derived in the Dashboard (Page on Page) with recommendations to the company.
 
 
+
+
 ## Product Page: 
 
 The product page features card visuals showcasing key product performance metrics: total discount, total sales, total shipping cost, and total profit. This provides a comprehensive overview of product discounting, sales activity, shipping costs, and profitability, helping the stakeholders gain a robust understanding of product performance.
@@ -72,6 +74,9 @@ Also, the Sales by Ship Mode Clustered Column chart compares the sales for diffe
 The Trendline page features a card visual showcasing key performance metrics: total discount, total sales, total shipping cost, and total profit. This provides a comprehensive overview of product discounting, sales activity, shipping costs, and profitability, helping the stakeholders gain a robust understanding of product performance.
 
 The Sales and Profit Trendline depicts the trend of sales and profit across different months. This allows stakeholders to identify potential seasonality, analyse the impact of specific events or campaigns on performance, and evaluate the effectiveness of pricing and marketing strategies over time.
+
+
+
 
 
 
