@@ -1,7 +1,5 @@
 ## Business Intelligence Analysis for RKY Mega Stores Liverpool Division
 
-#### Dashboard Link: https://drive.google.com/file/d/1C-vr_sWR8dYcNwtT7eybfH7zTkusN9HR/view?usp=drive_link
-
 
 
 ## Summary
